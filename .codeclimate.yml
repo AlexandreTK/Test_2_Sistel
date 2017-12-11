@@ -4,4 +4,7 @@ plugins:
 
     ratings:
       paths:
-        - src/**.java    
+        - src/**.java
+
+exclude_paths:
+  - src/**.js
