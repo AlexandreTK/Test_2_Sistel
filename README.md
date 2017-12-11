@@ -1,4 +1,5 @@
-<a href="https://codeclimate.com/github/AlexandreTK/Test_2_Sistel/maintainability"><img src="https://api.codeclimate.com/v1/badges/d3fff4c65a91eeff591a/maintainability" /></a>
+[![Maintainability](https://api.codeclimate.com/v1/badges/d3fff4c65a91eeff591a/maintainability)](https://codeclimate.com/github/AlexandreTK/Test_2_Sistel/maintainability)
+
 
 # SisTel
 Sistema de telefonia
