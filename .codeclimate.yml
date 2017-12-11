@@ -1,0 +1,7 @@
+plugins:
+  sonar-java:
+    enabled: true
+
+    ratings:
+      paths:
+        - src/**.java    
