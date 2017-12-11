@@ -5,6 +5,8 @@ plugins:
     ratings:
       paths:
         - src/**.java
+    exclude_patterns:
+      - "**/*.js"
 
-exclude_paths:
-  - src/**.js
+exclude_patterns:
+  - "**/*.js"
